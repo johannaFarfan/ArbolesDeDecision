@@ -14,6 +14,6 @@ public class NodoArbol {
 	}
 	
 	public String toString() {
-		return nombre + " Su dato es: --- " + dato;
+		return nombre + " Su dato es: )( " + dato;
 	}
 }
